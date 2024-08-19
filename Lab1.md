@@ -2,6 +2,7 @@
 
 ### Due - Monday, September 9, 11:59pm
 
+
 <hr/>
 
 In this assignment, you will set up your Python development environment and submit your solution vit GitHub. Here are a few additional notes regarding setup of your environment: [https://github.com/CS-5001-Shell/Resources/blob/main/guides/getting_started.md](https://github.com/CS-5001-Shell/Resources/blob/main/guides/getting_started.md)
@@ -9,15 +10,6 @@ In this assignment, you will set up your Python development environment and subm
 The topics you will practice and apply in this assignment include algorithm design, expressions, and variables.
 
 <hr/>
-
-## Step 1: Clone the Lab 1 repository
-
-Create a new Lab 1 repository by accepting the assignment here:
-[https://classroom.github.com/a/gq_vGuO1](https://classroom.github.com/a/gq_vGuO1)
-
-This will create a repository that contains four Python files that have starter code for the programming portion of this assignment.
-
-Use GitHub Desktop or your git tool of choice to clone or make a copy of the repository on your local computer.
 
 ## Part 1 - Set up your Python environment
 
@@ -30,6 +22,13 @@ All of the demonstrations in class will be on a Mac using [Sublime Text](https:/
 Make sure you have created a new user account at [GitHub.com](https://github.com/) and included your username in the Background Survey. Set up your computer to access your user account on GitHub. There are *many* ways to upload your work to GitHub. You will eventually need to learn to use git from the [command line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line). [GitHub Desktop](https://github.com/apps/desktop) is, however, a bit more intuitive. You may wish to use it for your assignments. Both will be demonstrated in class.
 
 ## Part 3 - Complete the code described in the four starter Python files in your Lab 1 repository
+
+Create a new Lab 1 repository by accepting the assignment here:
+[https://classroom.github.com/a/nCmiqf5W](https://classroom.github.com/a/nCmiqf5W)
+
+This will create a repository that contains four Python files that have starter code for the programming portion of this assignment.
+
+Use GitHub Desktop or your git tool of choice to clone or make a copy of the repository on your local computer.
 
 **Exercise 1:** Print a house.
 
