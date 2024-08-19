@@ -24,12 +24,12 @@ All of the demonstrations in class will be on a Mac using [Sublime Text](https:/
 
 ## Part 2 - Set up GitHub
 
-Make sure you have created a new user account at [GitHub.com](https://github.com/) and included your username in the [Background Survey](https://forms.gle/eaZFN2Fer84DnBhZ8). Set up your computer to access your user account on GitHub. There are *many* ways to upload your work to GitHub. You will eventually need to learn to use git from the [command line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line). [GitHub Desktop](https://github.com/apps/desktop) is, however, a bit more intuitive. You may wish to use it for your assignments. Both will be demonstrated in class.
+Make sure you have created a new user account at [GitHub.com](https://github.com/) and included your username in the Background Survey. Set up your computer to access your user account on GitHub. There are *many* ways to upload your work to GitHub. You will eventually need to learn to use git from the [command line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line). [GitHub Desktop](https://github.com/apps/desktop) is, however, a bit more intuitive. You may wish to use it for your assignments. Both will be demonstrated in class.
 
 ## Part 3 - Clone the Lab 1 repository
 
 Create a new Lab 1 repository by accepting the assignment here:
-[]()
+[https://classroom.github.com/a/YZQ2xcYa](https://classroom.github.com/a/YZQ2xcYa)
 
 This will create a repository that contains four Python files that have starter code for the programming portion of this assignment.
 
