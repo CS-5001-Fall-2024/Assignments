@@ -10,7 +10,7 @@ The topics you will practice and apply in this assignment include algorithm desi
 <hr/>
 
 ## Part 0 - Join the CS 5001 - OAK Team
-**[5 points]**
+#### 5 points
 
 Join the Microsoft Team that we will use for communication in this class via this link: [CS 5001 - OAK - Fall 2024](https://teams.microsoft.com/l/team/19%3A9nlYBJIFq3KpzcLYnx-qEezgyGMYCAnvlTI-eppIXh81%40thread.tacv2/conversations?groupId=28ae1c9a-c508-4f79-9854-ec6d06de5211&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e70)
 
@@ -24,4 +24,37 @@ All of the demonstrations in class will be on a Mac using [Sublime Text](https:/
 
 ## Part 2 - Set up GitHub
 
-Create a new user account at [GitHub.com](https://github.com/) and include your username in your responses to the Background SurveyLinks to an external site.. There are *many* ways to upload your work to GitHub. You will eventually need to learn to use git from the [command line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line). [GitHub Desktop](https://github.com/apps/desktop) is, however, a bit more intuitive. You may wish to use it for your assignments. Both will be demonstrated in class.
+Make sure you have created a new user account at [GitHub.com](https://github.com/) and included your username in the [Background Survey](https://forms.gle/eaZFN2Fer84DnBhZ8). Set up your computer to access your user account on GitHub. There are *many* ways to upload your work to GitHub. You will eventually need to learn to use git from the [command line](https://git-scm.com/book/en/v2/Getting-Started-The-Command-Line). [GitHub Desktop](https://github.com/apps/desktop) is, however, a bit more intuitive. You may wish to use it for your assignments. Both will be demonstrated in class.
+
+## Part 3 - Clone the Lab 1 repository
+
+Create a new Lab 1 repository by accepting the assignment here:
+[]()
+
+This will create a repository that contains four Python files that have starter code for the programming portion of this assignment.
+
+Use GitHub Desktop or your git tool of choice to clone or make a copy of the repository on your local computer.
+
+## Part 4 - Complete the code described in the four starter Python files in your Lab 1 repository
+
+#### 40 points - 10 points per question
+
+**Exercise 1:** Print a house.
+
+**Exercise 2:** Use variables to store and print your favorite song lyrics.
+
+**Exercise 3:** Calculate the difference, product, and average of two numbers.
+
+**Exercise 4:** Calculate the time an alarm will expire.
+
+## Assignment Submission
+
+To earn credit for this assignment you must commit all of your changes to your GitHub repository prior to the deadline. It is strongly recommended that you commit your changes regularly. Do not wait until you complete all four parts of the assignment to upload your (partial) solution.
+
+Step 1: If you are using GitHub Desktop, select "Commit to main" at the bottom left. Make sure to provide a meaningful Summary and Description. 
+
+Step 2: Select the "Push origin" button. This is extremely important as your changes will not be reflected on GitHub until you complete this step.
+
+Step 3: Using your web browser, navigate to your repository on GitHub.com. Look at your .py files in the browser to make sure they are the most recent version.
+
+*Congratulations! You have just completed your first computer science assignment!*
