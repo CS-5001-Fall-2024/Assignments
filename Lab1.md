@@ -2,15 +2,6 @@
 
 ### Due - Monday, September 9, 11:59pm
 
-## Step 1: Clone the Lab 1 repository
-
-Create a new Lab 1 repository by accepting the assignment here:
-[https://classroom.github.com/a/gq_vGuO1](https://classroom.github.com/a/gq_vGuO1)
-
-This will create a repository that contains four Python files that have starter code for the programming portion of this assignment.
-
-Use GitHub Desktop or your git tool of choice to clone or make a copy of the repository on your local computer.
-
 <hr/>
 
 In this assignment, you will set up your Python development environment and submit your solution vit GitHub. Here are a few additional notes regarding setup of your environment: [https://github.com/CS-5001-Shell/Resources/blob/main/guides/getting_started.md](https://github.com/CS-5001-Shell/Resources/blob/main/guides/getting_started.md)
@@ -19,12 +10,14 @@ The topics you will practice and apply in this assignment include algorithm desi
 
 <hr/>
 
-## Part 0 - Join the CS 5001 - OAK Team
-#### 5 points
+## Step 1: Clone the Lab 1 repository
 
-Join the Microsoft Team that we will use for communication in this class via this link: [CS 5001 - OAK - Fall 2024](https://teams.microsoft.com/l/team/19%3A9nlYBJIFq3KpzcLYnx-qEezgyGMYCAnvlTI-eppIXh81%40thread.tacv2/conversations?groupId=28ae1c9a-c508-4f79-9854-ec6d06de5211&tenantId=a8eec281-aaa3-4dae-ac9b-9a398b9215e70)
+Create a new Lab 1 repository by accepting the assignment here:
+[https://classroom.github.com/a/gq_vGuO1](https://classroom.github.com/a/gq_vGuO1)
 
-Make sure you keep a close eye on this team. All announcements will be posted here. This is also where you will go to ask questions about your assignments. I encourage you to use this liberally!
+This will create a repository that contains four Python files that have starter code for the programming portion of this assignment.
+
+Use GitHub Desktop or your git tool of choice to clone or make a copy of the repository on your local computer.
 
 ## Part 1 - Set up your Python environment
 
