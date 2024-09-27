@@ -2,6 +2,11 @@
 ### Due - Monday, October 7, 2024
 
 Assignment Link:
+[https://classroom.github.com/a/3eYYqNkT](https://classroom.github.com/a/3eYYqNkT)
+
+*Note: when you accept the assignment it will create an empty repository. There
+are no autograded tests for this assignment. It is your responsibility to create
+Python files named as described below.*
 
 <hr/>
 
