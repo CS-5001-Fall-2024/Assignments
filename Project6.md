@@ -1,16 +1,27 @@
-# Song Finder Web Application
-### Due - Thursday, December 12, 3:00pm
+# Song Finder 
 
-*Pending.*
+This project requires the following concepts:
 
-## Assignment Submission
+- Classes
+- File I/O
+- JSON Processing
+- Software Development Techniques
 
-To earn credit for this assignment you must commit all of your changes to your GitHub repository prior to the deadline. It is strongly recommended that you commit your changes regularly. Do not wait until you complete all four parts of the assignment to upload your (partial) solution.
+You will complete this project in two parts. You will use one repository for
+both parts 1 and 2 of this project:
 
-Step 1 - *Stage Changes*: Select the Source Control icon in the VSCode left menu. In the Changes section, click the + to *Stage All Changes*.
+Assignment Link: [https://classroom.github.com/a/kzIyUEpa](https://classroom.github.com/a/kzIyUEpa)
 
-Step 2 - Commit Message: In the text box that says Message enter a meaningful message that describes the change you just completed.
+## Part 1 - [Project 5](PART1.md)
+### Due Tuesday, December 3, 2024
 
-Step 3 - *Commit & Push*: Select the down arrow in the blue box that says Commit. Choose *Commit & Push*.
+## Part 2 - [Project 6](PART2.md)
+### Due Thursday, December 12, 2024
 
-Step 4 - Verify: Visit the repository on GitHub to confirm that your changes were uploaded successfully.
+*You may choose to work in teams of two students on this project. If you choose
+to work as a team, you will work together on both Part 1 and Part 2. Your team
+must be formed no later than Monday, November 25. You must notify the instructor
+of the names of your teammates before 5:00pm on 11/25. One person will
+create the repository link, and the instructor will grant both teammates
+permission to access the repository.*
+
