@@ -13,7 +13,7 @@ both parts 1 and 2 of this project:
 Assignment Link: [https://classroom.github.com/a/kzIyUEpa](https://classroom.github.com/a/kzIyUEpa)
 
 ## Part 1 - [Project 5](PART1.md)
-### Due Tuesday, December 3, 2024
+### Due Friday, December 6, 2024
 
 ## Part 2 - [Project 6](PART2.md)
 ### Due Thursday, December 12, 2024
